@@ -1,0 +1,15 @@
+pm-enable overlay
+pm-enable field_ui
+pm-enable ctools
+pm-enable admin_menu
+pm-enable admin_menu_toolbar
+pm-enable features
+pm-enable environments
+pm-enable environments_custom
+pm-enable taxonomy
+pm-enable options
+pm-enable list
+pm-enable module_filter
+pm-enable image
+pm-enable entityreference
+pm-enable strongarm
